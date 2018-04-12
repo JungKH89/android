@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project1_1</string>
+    <string name="strBtn3">가져온 버튼입니다</string>
+    <string name="title">스마트 금융과</string>
+    <string name="description">
+        안녕하세요?
+        폴리텍대학교 강서캠퍼스
+        스마트 금융과입니다.
+    </string>
+
+</resources>
